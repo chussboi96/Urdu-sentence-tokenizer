@@ -8,7 +8,6 @@ The tokenizer accepts Urdu text as input.
 
 - Once the text is segmented into sentences, the tokenizer returns these as a list or another structured format suitable for downstream processing.
 - it also implement Byte-pair-encoding
-=======================================================================
 
 This tokenizer be used in applications like sentiment analysis, translation, or other text analysis tasks that require sentence-level processing.
 
