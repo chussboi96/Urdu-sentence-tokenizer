@@ -1,9 +1,7 @@
 The tokenizer accepts Urdu text as input.
 
 =======================================================================
-1. Input and Preprocessing:
-It preprocesses text by removing or handling special characters and other non-textual elements that could interfere with the tokenization process.
-
+- use of start-of-sentence & end-of-sentence words
 - Tokenization Logic:
 -- The main function uses regular expressions or other linguistic rules specific to Urdu to identify sentence boundaries.
 -- This involves looking for punctuation marks typical for ending sentences, such as periods, question marks, or exclamation points, and considering Urdu-specific cases like ending postpositions.
